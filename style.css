@@ -1,0 +1,245 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/*body*/
+.body {
+	background-color: rgba(46.75000101327896, 45.81495858728886, 44.41249944269657, 1);
+	width: 480px;
+	height: 100%;
+	height: 840px;
+	border-radius: 20px;
+}
+
+/*barra de pesquisa parte do search*/
+.e1_3 {
+	transform: rotate(-0.07978619228625104deg);
+	background-color: rgba(20.081249848008156, 154.1092425584793, 229.49999392032623, 1);
+	width: 370px;
+	height: 33px;
+	position: relative;
+	top: 25px;
+	left: 30px;
+	border-radius: 20px;
+}
+
+/*Fonte do search*/
+.e1_15 {
+	color: rgba(0, 0, 0, 1);
+	width: 53px;
+	height: 19px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 16px;
+	letter-spacing: 0;
+	position: relative;
+	top: 5px;
+}
+
+/*Fonte do what is new*/
+.e1_25 {
+	color: rgba(255, 255, 255, 1);
+	width: 231px;
+	height: 37px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 30px;
+	letter-spacing: 0;
+	position: relative;
+	top: 60px;
+	left: 30px;
+}
+
+/*ball-login*/
+#perfil {
+	position: relative;
+	width: 50px;
+	height: 50px;
+	background-color: aliceblue;
+	border-radius: 100%;
+	top: -620px;
+	left: 410px;
+}
+
+#login {
+	width: 40px;
+	height: 40px;
+	position: relative;
+	left: 5px;
+	top: 3px;
+}
+
+.cartaz {
+	width: 106px;
+	height: 150px;
+	background-color: aliceblue;
+	position: relative;
+	border: rgb(20.081249848008156, 154.1092425584793, 229.49999392032623, 1);
+	top: -590px;
+	margin-left: 39px;
+}
+
+.medalha {
+	width: 49px;
+	height: 49px;
+	position: relative;
+	top: -590px;
+	margin-left: 90px;
+}
+
+#O {
+	right: 20px;
+}
+
+#P {
+	right: 12px;
+}
+
+#B {
+	right: 10px;
+}
+
+
+/*dividindo o body*/
+.e1_42 {
+	background-color: rgba(105.18749848008156, 98.61328125, 98.61328125, 1);
+	width: 480px;
+	height: 15px;
+	position: relative;
+	top: 310px;
+}
+
+/*for you*/
+.e1_41 {
+	color: rgba(255, 255, 255, 1);
+	width: 114px;
+	height: 36px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 30px;
+	letter-spacing: 0;
+	position: relative;
+	top: 320px;
+	left: 30px;
+}
+
+/*blocos*/
+.e1_47 {
+	background-color: rgba(255, 255, 255, 1);
+	width: 106px;
+	height: 150px;
+	position: relative;
+	left: 240px;
+	top: 425px;
+	left: 335px;
+
+}
+
+.e1_48 {
+	background-color: rgba(255, 255, 255, 1);
+	width: 106px;
+	height: 150px;
+	position: relative;
+	left: 190px;
+	top: 240px;
+}
+
+.e1_49 {
+	background-color: rgba(255, 255, 255, 1);
+	width: 106px;
+	height: 150px;
+	position: relative;
+	left: 40px;
+	top: 55px;
+}
+
+
+.figura {
+	position: relative;
+	left: 10px;
+	top: 30px;
+	width: 83px;
+	height: 88px;
+}
+
+/*título figuras*/
+
+.e1_75 {
+	color: rgba(249.8999136686325, 255, 0, 1);
+	width: 133px;
+	height: 30px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 30px;
+	letter-spacing: 0;
+	position: relative;
+	top: 45px;
+	left: 30px;
+}
+
+.e1_76 {
+	color: rgba(248.62500607967377, 0, 0, 1);
+	width: 91px;
+	height: 36px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 30px;
+	letter-spacing: 0;
+	position: relative;
+	top: 230px;
+	left: 195px;
+}
+
+.e1_78 {
+	color: rgba(228.4374949336052, 29.506511092185974, 172.73683100938797, 1);
+	width: 93px;
+	height: 36px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 30px;
+	letter-spacing: 0;
+	position: relative;
+	top: 418px;
+	left: 220px;
+}
+
+.e1_82 {
+	color: rgba(255, 255, 255, 1);
+	width: 65px;
+	height: 24px;
+	font-family: Inter;
+	text-align: left;
+	font-size: 20px;
+	letter-spacing: 0;
+	position: relative;
+	top: 70px;
+	left: 390px;
+}
+
+/*rodapé*/
+.e1_44 {
+	background-color: rgba(20.000000707805157, 154.00000602006912, 229.00000154972076, 1);
+	width: 202px;
+	height: 34px;
+	position: relative;
+	left: 130px;
+	top: 110px;
+	border-radius: 20px;
+}
+
+#casa {
+	position: relative;
+	left: 90px;
+}
+
+#engre {
+	position: relative;
+	left: 45px;
+}
+
+#biblio {
+	position: relative;
+	left: 7px;
+}
